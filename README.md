@@ -16,4 +16,4 @@ https://www.kaggle.com/andradaolteanu/iso-country-codes-global
 * Data Exploration   
 * Adding 'Alpha-3 code' column   
 * Dealing with multiple categories in a row   
-* Creating a Dashboard that discrib how many movies and TV Shows created by each country based on categories checklist and years range slider
+* Creating a Dashboard that discribe how many movies and TV Shows created by each country based on categories checklist and years range slider
